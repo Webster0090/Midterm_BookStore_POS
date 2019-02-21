@@ -1,0 +1,7 @@
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\bin\Debug\Midterm_BookStore_POS.exe.config
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\bin\Debug\Midterm_BookStore_POS.exe
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\bin\Debug\Midterm_BookStore_POS.pdb
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\obj\Debug\Midterm_BookStore_POS.csprojAssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\obj\Debug\Midterm_BookStore_POS.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\obj\Debug\Midterm_BookStore_POS.exe
+C:\Users\steve\OneDrive\Desktop\Grand Circus\Midterm\Midterm_BookStore_POS\Midterm_BookStore_POS\obj\Debug\Midterm_BookStore_POS.pdb
